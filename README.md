@@ -33,5 +33,12 @@ library book booking
   ## experiment 6
   ![Screenshot 2023-05-05 084147](https://user-images.githubusercontent.com/115144239/236370914-6a9d5e6d-f9d9-49b3-9ff4-4dd35a992023.png)
 
+test 2
+student data
+![Screenshot 2023-05-05 091230](https://user-images.githubusercontent.com/115144239/236373918-e8765501-85e8-4665-8fde-c342a4829c7c.png)
+![Screenshot 2023-05-05 092609](https://user-images.githubusercontent.com/115144239/236374778-f2efe314-92aa-41e2-8304-c04d645ec926.png)
+![Screenshot 2023-05-05 092754](https://user-images.githubusercontent.com/115144239/236374947-32dfb9ee-b764-4003-9089-16a714e3e859.png)
+
+
 
 
