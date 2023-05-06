@@ -47,6 +47,11 @@ experiment 8
 reducing harddisk
 ![Screenshot 2023-05-06 081710](https://user-images.githubusercontent.com/115144239/236594708-7c87771e-1951-489f-adab-7737fa7bf71d.png)
  
+ ##experiment 9
+clone
+![Screenshot 2023-05-06 083157](https://user-images.githubusercontent.com/115144239/236595284-2607875f-156f-47e8-8b04-1916fe435095.png)
+![Screenshot 2023-05-06 083305](https://user-images.githubusercontent.com/115144239/236595297-82de36ee-a591-457a-b719-ec563ed6c308.png)
+
 ##experiment 10
 snapshot
 ![Screenshot 2023-05-06 082651](https://user-images.githubusercontent.com/115144239/236595096-fe455dcb-71a1-4d70-9759-aff2b0b00823.png)
