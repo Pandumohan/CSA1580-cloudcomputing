@@ -39,6 +39,15 @@ student data
 ![Screenshot 2023-05-05 092609](https://user-images.githubusercontent.com/115144239/236374778-f2efe314-92aa-41e2-8304-c04d645ec926.png)
 ![Screenshot 2023-05-05 092754](https://user-images.githubusercontent.com/115144239/236374947-32dfb9ee-b764-4003-9089-16a714e3e859.png)
 
+experiment 7
+adding harddisk
+![Screenshot 2023-05-06 081525](https://user-images.githubusercontent.com/115144239/236594564-cb76cf53-da4a-4b7f-93c6-883be7214b4d.png)
+
+experiment 8
+reducing harddisk
+![Screenshot 2023-05-06 081710](https://user-images.githubusercontent.com/115144239/236594708-7c87771e-1951-489f-adab-7737fa7bf71d.png)
+
+
 
 
 
