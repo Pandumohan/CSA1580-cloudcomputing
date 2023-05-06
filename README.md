@@ -46,6 +46,11 @@ adding harddisk
 experiment 8
 reducing harddisk
 ![Screenshot 2023-05-06 081710](https://user-images.githubusercontent.com/115144239/236594708-7c87771e-1951-489f-adab-7737fa7bf71d.png)
+ 
+##experiment 10
+snapshot
+![Screenshot 2023-05-06 082651](https://user-images.githubusercontent.com/115144239/236595096-fe455dcb-71a1-4d70-9759-aff2b0b00823.png)
+
 
 
 
